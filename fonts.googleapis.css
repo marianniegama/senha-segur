@@ -2,7 +2,7 @@
 
 :root{
     --branco: white;
-    --cor-de-fundo: #00162E;
+    --cor-de-fundo: #38270e;
     --fundo-senha: #00244D;
     --fundo-texto: #001E40;
     --borda: #7524b8;
@@ -96,6 +96,7 @@ body{
     border: 2px solid var(--borda);
     padding: 24px;
     font-size: 24px;
+    cursor: pointer;
 }
 
 
